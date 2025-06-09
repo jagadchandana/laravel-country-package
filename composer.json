@@ -1,0 +1,26 @@
+{
+    "name": "jcs/country",
+    "description": "Laravel package to get country data, codes, and dial codes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chandana(JCS)",
+            "email": "jagadchandana61@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JCS\\Country\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "JCS\\Country\\CountryServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
