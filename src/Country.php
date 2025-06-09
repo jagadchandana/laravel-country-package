@@ -1,4 +1,4 @@
-namespace;
+namespace JCS\Country;
 
 class Country
 {

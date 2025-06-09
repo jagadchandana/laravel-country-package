@@ -1,4 +1,4 @@
-namespace;
+namespace JCS\Country;
 
 use Illuminate\Support\ServiceProvider;
 
