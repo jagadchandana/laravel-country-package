@@ -1,5 +1,3 @@
-readme_content = """# JCS Country
-
 **Laravel package to get country data, codes, dial codes, flags, and more.**
 
 ---
